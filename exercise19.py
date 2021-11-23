@@ -19,3 +19,5 @@ cheese_and_crackers(10 + 60, 5+ 7)
 
 print("And we can combine the two, variables and math:")
 cheese_and_crackers(amount_of_crackers + 100, amount_of_crackers + 1000)
+
+
