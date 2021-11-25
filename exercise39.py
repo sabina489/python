@@ -1,4 +1,5 @@
-# Dictionaries
+# Dictionaries 
+# Dictionaries are another example of a data structure.
 '''things = ['a', 'b', 'c', 'd']
 print(things[1])
 
