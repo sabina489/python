@@ -42,7 +42,7 @@ def convert(snippet, phrase):
             random.sample(  WORDS, param_count)))
     for sentence in snippet, phrase:
         #this is how you duplicate a list or string
-        result = sentence[:]
+        result = sentence[:]  # It is a way of copying a list in Python.
         # fake class names
         for word in class_names:
             result = result.replace("****", word, 1)

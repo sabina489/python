@@ -13,3 +13,5 @@ lives = input(prompt)
 
 print("What kind of computer do you have?")
 computer = input(prompt)
+
+#To run this program, we need to type python3 exercise14.py Sabina

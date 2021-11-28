@@ -16,3 +16,5 @@ while i < 4:
 print("The numbers:")
 for num in numbers:
     print(num)
+
+# A for-looop can only iterate(loop) over collectioins of things. A while-loop can do any kind of iteration(looping) we want.

@@ -28,5 +28,6 @@ x.printname
 class Student(Person):
     def __init__(self, fname, lname):
         Person.__init__(self, fname, lname)
-x = Student("Ram", "Karki")
+x = Student("Saru", "Karki")
 x.printname()
+
